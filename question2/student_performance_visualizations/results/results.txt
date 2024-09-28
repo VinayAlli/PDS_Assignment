@@ -1,1 +1,1 @@
-
+The graphics provide useful details on the student achievement data cases. The bar graph depicts the frequency distribution of scores, the box & whisker plot illustrates the variance in writing scores as a function of the education level of parents while the bar graph facets the mean score across different gender. The heatmap portrays the relationships among all the variables while the scatter plot presents the relationship between reading and maths. Used altogether these tools stress relations and trends in the data that can help decision makers and teachers.
