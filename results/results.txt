@@ -1,1 +1,6 @@
+Correlation coefficient (Weight vs. Frailty): 0.54
+Correlation coefficient (Height vs. Frailty): 0.19
+Correlation coefficient (Age vs. Frailty): -0.08
+
+
 
